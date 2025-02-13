@@ -20,6 +20,9 @@ A simple **Node.js + Express.js** REST API that supports **CRUD (Create, Read, U
 
 ---
 
+## 🚀 Live Demo For Development Purpose
+  🌍 https://rest-api-kd1t.onrender.com/api/users
+
 ## 🚀 Installation & Setup
 
 ### **2️⃣ Install Dependencies**
